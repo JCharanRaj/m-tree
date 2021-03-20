@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background: linear-gradient(-65deg, #a59ac0 50%, rgba(218, 139, 143, 0) 60%, transparent),
+              linear-gradient(90deg, #7022ee05 50%, rgba(153, 231, 146, 0) 60%,transparent),
+              linear-gradient(to bottom right, #6d77cf 50%, rgba(92, 138, 236, 0),transparent),
+              linear-gradient(to right, #e271cf 50%, rgba(92, 138, 236, 0),transparent);
+}
+
+.person {
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px rgb(197, 59, 59);
+  width: 200px;
+  padding: 10px;
+}
+
+.button{
+  border: 1px solid #eee;
+  padding: 5px;
+  margin: 10px;
+}
